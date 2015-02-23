@@ -13,6 +13,8 @@
 		3137C2B31A7AC040002E2D37 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3137C2B21A7AC040002E2D37 /* Images.xcassets */; };
 		3137C2B61A7AC040002E2D37 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3137C2B41A7AC040002E2D37 /* LaunchScreen.xib */; };
 		3137C2C21A7AC040002E2D37 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3137C2C11A7AC040002E2D37 /* PostcardTests.swift */; };
+		3137C2CE1A7AC9F4002E2D37 /* sagrada familia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3137C2CD1A7AC9F4002E2D37 /* sagrada familia.jpg */; };
+		3137C2D01A7ACEA1002E2D37 /* Albert E.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3137C2CF1A7ACEA1002E2D37 /* Albert E.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		3137C2BB1A7AC040002E2D37 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3137C2C01A7AC040002E2D37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3137C2C11A7AC040002E2D37 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		3137C2CD1A7AC9F4002E2D37 /* sagrada familia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sagrada familia.jpg"; sourceTree = "<group>"; };
+		3137C2CF1A7ACEA1002E2D37 /* Albert E.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Albert E.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		3137C2A91A7AC040002E2D37 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3137C2CF1A7ACEA1002E2D37 /* Albert E.jpg */,
+				3137C2CD1A7AC9F4002E2D37 /* sagrada familia.jpg */,
 				3137C2AA1A7AC040002E2D37 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,8 +199,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				3137C2B11A7AC040002E2D37 /* Main.storyboard in Resources */,
+				3137C2CE1A7AC9F4002E2D37 /* sagrada familia.jpg in Resources */,
 				3137C2B61A7AC040002E2D37 /* LaunchScreen.xib in Resources */,
 				3137C2B31A7AC040002E2D37 /* Images.xcassets in Resources */,
+				3137C2D01A7ACEA1002E2D37 /* Albert E.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
